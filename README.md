@@ -13,3 +13,5 @@ C:\xampp\php\php.exe C:\xampp\htdocs\magento2\bin\magento setup:upgrade
 php bin/magento setup:static-content:deploy
 means
 C:\xampp\php\php.exe C:\xampp\htdocs\magento2\bin\magento setup:static-content:deploy
+
+Thanks
